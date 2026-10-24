@@ -1,0 +1,22 @@
+{
+  "deer": {
+    "name":"Deer",
+    "biome":["forest","swamp"],
+    "drops":{
+      "venison": [3,8],
+      "bone": [4,5],
+      "deer_pelt": [1,1]
+    },
+    "hostile":false,
+    "attack_damage":3.2,
+    "attack_chance":0.23,
+    "attack_type": ["pierce","scratch"],
+    "favorite_attack":"pierce",
+    "target_chances":{
+      "chest":60, "leg_l":20, "leg_r":20
+    },
+    "base_hunt_success":0.4,
+    "base_hunt_critical_fail":0.05,
+    "starting_range":[0,10]
+  }
+}

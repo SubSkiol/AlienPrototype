@@ -1,0 +1,19 @@
+{
+  "brown_mushroom": {
+    "name":"Brown Mushroom",
+    "description":"Brown. Kinda smelly.",
+    "taste":"It has a very mild taste. Very spongy.",
+    "stats": { "protein_a":10 }
+  },
+  "venison": {
+    "name": "Raw Venison",
+    "description": "Fresh, raw deer meat. Yum. I guess.",
+    "taste":"It is cold, tough, and unpleasant to eat. It would be better cooked... Once we learn how cooking works",
+    "stats": { "protein_a":30, "protein_b":25 }
+  },
+  "water": {
+    "name": "Water",
+    "description": "Warning: Every single person who consumes this will at some point die. Proceed with caution.",
+    "stats": { "water":30 }
+  }
+}
